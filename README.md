@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @melcoke
+- 👀 I’m interested in the intersection of linguistics and computer science.
+- 🌱 I’m currently learning programming methodologies in C++ and python.
+- 💞️ I’m looking to collaborate on any project related to linguistics assuming it is beginner-friendly.
+- 📫 Reach me: melcnoise@gmail.com
