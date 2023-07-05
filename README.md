@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Melc.
-- 👀 I’m interested in the intersection of linguistics/literature and computer science.
-- 🌱 I’m currently learning programming methodologies in C++ and python.
-- 💞️ I’m looking to collaborate on beginner-friendly projects related to linguistics/literature.
-- 📫 Reach me: melcnoise@gmail.com
+- 👋 Meld the Machine.
+- 👀 I aspire to build my own AI.
+- 🌱 currently learning NLP.
